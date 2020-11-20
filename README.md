@@ -40,7 +40,7 @@ The precompiled hex file contains a bootloader with the unusual speed
 setting of 38400. The more standard value of 115200 baud is difficult with
 a clock rate of 8MHz. It will result in a baud rate error of -3.5% which
 might be a problem for the CH340. Alternatively, the file 
-'bootloader/optiboot_atmega328_115k2.hex' can be used for a higher speed.
+`bootloader/optiboot_atmega328_115k2.hex` can be used for a higher speed.
 
 
 ### Compiling the bootloader
@@ -64,6 +64,8 @@ above.
 
 ## Hardware Specifications
 
+			| v1.0
+---			|---
 CPU type		| ATmega328p
 I/O voltage		| 3.3V
 CPU clock		| 8MHz
