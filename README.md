@@ -64,7 +64,7 @@ above.
 
 ## Hardware Specifications
 
-			| v1.0
+board version		| v1.0
 ---			|---
 CPU type		| ATmega328p
 I/O voltage		| 3.3V
